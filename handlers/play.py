@@ -82,7 +82,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: STAR BOI (@its_star_boi)",
+        f"Powered By: RK STAR OP (@Fighter_rkh)",
         (255, 255, 255),
         font=font,
     )
@@ -168,7 +168,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="•★ᴄʜᴀɴɴᴇʟ★•", url=f"https://t.me/its_star_network"
                     ),
-                    InlineKeyboardButton(text="🥀sᴜᴘᴘᴏʀᴛ🥀", url=f"https://t.me/Best_FriendsFor_Ever")
+                    InlineKeyboardButton(text="🥀sᴜᴘᴘᴏʀᴛ🥀", url=f"https://t.me/NJ_AJ_WORLD")
                  ]   
             ]
         )
@@ -207,7 +207,7 @@ async def play(_, message: Message):
                            InlineKeyboardButton(
                         text="•★ᴄʜᴀɴɴᴇʟ★•", url=f"https://t.me/its_star_network"
                     ),
-                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/Best_FriendsFor_Ever"
+                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/NJ_AJ_WORLD"
                           ),
                      ]
                 ]
@@ -223,7 +223,7 @@ async def play(_, message: Message):
                         InlineKeyboardButton(
                         text="•★ᴄʜᴀɴɴᴇʟ★•", url=f"https://t.me/its_star_network"
                     ),
-                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/Best_FriendsFor_Ever" )
+                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/NJ_AJ_WORLD" )
                     ]
                 ]
             )
@@ -273,7 +273,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="•★ᴄʜᴀɴɴᴇʟ★•", url=f"https://t.me/its_star_network"
                     ),
-                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/Best_FriendsFor_Ever" )
+                    InlineKeyboardButton(text="•🥀sᴜᴘᴘᴏʀᴛ•🥀", url=f"https://t.me/NJ_AJ_WORLD" )
                 ]
             ]
         )
